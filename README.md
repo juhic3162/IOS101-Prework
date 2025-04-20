@@ -2,7 +2,9 @@
 
 Submitted by: **Juhi Chikara**
 
-**Color Changer** is an app that... [TODO] 
+**Color Changer** is an app that...
+- Changes background color of app as the user clicks on the button
+- Displays creator's name, schoool, and intended career
 
 Time spent: **2** hours spent in total
 
